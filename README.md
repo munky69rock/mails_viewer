@@ -65,10 +65,10 @@ filesystem for you to browse later, but also send out to his inbox.
 Credits
 -------
 
-![pragmatic.ly](https://pragmatic.ly/assets/vlogo.png)
+![pragmatic.ly](https://fengche.co/assets/vlogo.png)
 
-MailsViewer is maintained by [Pragmatic.ly](https://pragmatic.ly/ "Pragmatic.ly").
+MailsViewer is maintained by [Fengche.co](https://fengche.co/ "Fengche.co") (Originally Pragmatic.ly).
 
 Special thanks to [tomlion](https://github.com/tomlion) for starting the project.
 
-Copyright (c) 2012 Dingding Ye, Pragmatic.ly (dingding@pragmatic.ly, https://pragmatic.ly/)
+Copyright (c) 2012 Dingding Ye, Fengche.co (dingding@fengche.co, https://fengche.co/)
