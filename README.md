@@ -65,7 +65,7 @@ filesystem for you to browse later, but also send out to his inbox.
 Credits
 -------
 
-![pragmatic.ly](https://fengche.co/assets/vlogo.png)
+![风车协作](https://fengche.co/assets/logo-with-name.png)
 
 MailsViewer is maintained by [Fengche.co](https://fengche.co/ "Fengche.co") (Originally Pragmatic.ly).
 
