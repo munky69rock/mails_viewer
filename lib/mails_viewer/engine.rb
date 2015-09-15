@@ -6,8 +6,8 @@ module MailsViewer
     engine_name = :mails_viewer
     isolate_namespace MailsViewer
 
-    # Enabling assets precompiling under rails 3.1
-    if Rails.version >= '3.1' && Rails.env != 'production'
+    # Enabling assets precompiling under rails 4.0
+    if Rails.version >= '4.0' && !Rails.env.production?
       require 'jquery-datatables-rails'
       initializer "MailsViewer precompile hook", :group => :all do |app|
         app.config.assets.precompile += %w(mails_viewer.js mails_viewer.css)

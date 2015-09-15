@@ -16,9 +16,9 @@ Gem::Specification.new do |s|
   s.files = Dir["{app,config,lib}/**/*"] + ["LICENSE", "Gemfile", "Rakefile",  "README.md"] - ["Gemfile.lock"]
   s.test_files = Dir["test/**/*"]
 
-  s.add_dependency "rails", ">= 3.1.0"
-  s.add_dependency "jquery-rails", ">= 2.0.1"
+  s.add_dependency "rails", ">= 4.0.0"
+  s.add_dependency "jquery-rails", ">= 4.0.0"
   s.add_dependency "jquery-datatables-rails"
-  s.add_development_dependency "mail", '~> 2.4.0'
-  s.add_development_dependency 'rspec', '~> 2.11.0'
+  s.add_development_dependency "mail", '~> 2.5.0'
+  s.add_development_dependency 'rspec', '~> 3.1.0'
 end
