@@ -22,6 +22,7 @@ RSpec.configure do |config|
   config.mock_with :rspec
   config.use_transactional_fixtures = true
   config.include RSpec::Matchers
+  config.include Capybara::DSL
   config.include MailsViewer::Engine.routes.url_helpers
 end
 
