@@ -1,4 +1,4 @@
-#### MailsViewer ####
+#### MailsViewer #### [![Build Status](https://travis-ci.org/munky69rock/mails_viewer.svg)](https://travis-ci.org/munky69rock/mails_viewer)
 
    MailsViewer is a mails preview Engine which provides a table view for all mails under tmp/mails. So you can easily preview the mails
    in non-production mode and no longer need to worry about accidentally sending a test email to someone else’s address.
